@@ -1,3 +1,3 @@
 #! /bin/bash
 
-docker compose exec --user php --workdir /app php bash
+docker compose exec php bash
